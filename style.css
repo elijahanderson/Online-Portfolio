@@ -1,0 +1,89 @@
+/** CSS stylesheet for my personal website
+  * Updated 3/20/17 */
+body {
+	font-size: 14pt;
+	font-family: "Verdana Light";
+	color:white;
+	background-color: #00ffff;
+	margin: 100px;
+	margin-top: 50px;
+}
+
+ul {
+	margin-left: 300px;
+}
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 20pt;
+	word-spacing: 20px;
+	text-align: center;
+}
+
+div {
+	text-align: center;
+}
+
+p {
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: left;
+}
+
+h1 {
+	font-size: 40pt;
+	letter-spacing: 5px;
+  padding: 40px;
+	text-align: center;
+
+}
+
+h2 {
+		font-size: 30pt;
+    	padding: 30px;
+			text-align: center;
+}
+
+h3 {
+			font-size: 22pt;
+    	padding: 20px;
+			text-align: left;
+			margin-left: 300px;
+			margin-right: 300px;
+			border-top-color: #99ffff;
+			border-top-width: 1px;
+			border-top-style: solid;
+			border-bottom-color: #99ffff;
+			border-bottom-width: 1px;
+			border-bottom-style: solid;
+}
+
+h4 {
+	font-size: 17pt;
+			text-align: left;
+			margin-left: 300px;
+			margin-right: 300px;
+}
+
+strong {
+	color: white;
+}
+
+img {
+	border-style: solid;
+	border-width: 4px;
+	border-color: white;
+}
+
+table {
+    	border-style: dashed;
+    	border-width: 2px;
+    	border-color: white;
+	padding: 20px;
+}
+<!-- All colors here are the same:
+	red
+	rgb(255,0,0)
+	rgb(100%,0%,0%)
+	#ff0000
+	#f00-->
